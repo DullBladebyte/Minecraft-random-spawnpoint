@@ -1,0 +1,1 @@
+# Minecraft-random-spawnpoint
